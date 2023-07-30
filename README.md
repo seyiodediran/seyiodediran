@@ -5,7 +5,7 @@
 
 📖 I'm continuously learning and improving my skills in web design and frontend development. I'm passionate about crafting delightful user experiences with captivating animations and interactive elements. In addition to my development skills, I've dabbled in design using tools like **Figma** and **Adobe XD** to bring my creative ideas to life.
 
-👥 I'm actively looking to collaborate with like-minded individuals who are either at a similar level (beginner/intermediate) or more advanced than me. I believe collaboration is a powerful way to grow and navigate this vast field of web development together, learning from each other's unique perspectives.
+👥 I'm actively looking to collaborate with like-minded individuals working with similar technologies. I believe collaboration is a powerful way to grow and navigate this vast field of web development together, learning from each other's unique perspectives.
 
 🤔 Currently, I'm seeking help with honing my **Laravel** and **Alpine.js** skills further. I'd love guidance and insights from experienced developers to tackle more complex challenges and gain a deeper understanding of these technologies.
 

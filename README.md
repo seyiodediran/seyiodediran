@@ -1,3 +1,6 @@
+[![MasterHead](https://github.com/seyiodediran/seyiodediran/blob/master/banner.png)](https://github.com/seyiodediran)
+
+
 ### Hi there 👋
 
 

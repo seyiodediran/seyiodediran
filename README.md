@@ -11,11 +11,6 @@
 
 💬 Feel free to ask me about **Laravel**, **Alpine.js**, frontend development, web design, animations, or anything related to my projects and experiences. I'm always eager to share knowledge and exchange ideas.
 
-📫 You can reach me ⤵️ 
-
-
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: Apart from coding, I have a passion for cooking exotic dishes from various cuisines. Cooking, just like coding, allows me to experiment and create something delightful from scratch!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyiodediran)](https://github.com/anuraghazra/github-readme-stats)
